@@ -6,4 +6,4 @@ Topic creation in kafka
 
 Listing created topics
 
-kafka-topics.bat --bootstrap-server localhost:9093 --list
+./KAFKA_BINARY/kafka_2.12-3.5.0/bin/windows/kafka-topics.bat --bootstrap-server localhost:9093 --list
